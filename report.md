@@ -8,7 +8,9 @@ Submited by : Sukhvir singh
 
 Class: EEB
 
-Class/University roll no.:1916077/1905159
+Class roll no.:1916077
+
+University roll no.:1905159
 
 Branch:Electrical 
 
