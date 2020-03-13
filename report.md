@@ -1,4 +1,4 @@
-![PHOTO](chrome://fileicon/?path=C%3A%5CUsers%5Cacer07%5CDesktop%5Cdownload+%281%29.jpg&scale=1x)
+![download(2).jpg](https://www.gndec.ac.in/sites/default/logo.png)
 
 _ _ _ _ _
  # Programing for problem solving (ESC-105)
