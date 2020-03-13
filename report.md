@@ -1,4 +1,4 @@
-![gne logo] (https://www.gndec.ac.in/sites/default/logo.png)
+![gne logo] (chrome://fileicon/?path=C%3A%5CUsers%5Cacer07%5CDesktop%5Clogo.png&scale=1x)
 _ _ _ _ _
  # Programing for problem solving (ESC-105)
 
@@ -16,4 +16,5 @@ Branch:Electrical
 
 Batch: 2019-2023
 
+Section: B
 _ _ _ _ _
