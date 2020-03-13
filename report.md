@@ -1,4 +1,4 @@
-![gne logo] https://www.gndec.ac.in/sites/default/logo.png
+![gne logo] (https://www.gndec.ac.in/sites/default/logo.png)
 _ _ _ _ _
  # Programing for problem solving (ESC-105)
 
